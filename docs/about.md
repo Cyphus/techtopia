@@ -5,7 +5,7 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+An elegant Minecraft SMP
 
 [GitHub](https://github.com/coffeebank/moonrise)
 
